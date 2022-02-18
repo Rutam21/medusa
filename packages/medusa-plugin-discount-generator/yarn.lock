@@ -3724,10 +3724,10 @@ media-typer@0.3.0:
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
 
-medusa-core-utils@^0.1.27:
-  version "0.1.27"
-  resolved "https://registry.yarnpkg.com/medusa-core-utils/-/medusa-core-utils-0.1.27.tgz#7747d19c60741aa3ef758ee87e54ffc956a09177"
-  integrity sha512-QgwPciHf3rMoAZVnkX2E8QyQ8qrji/a5X6PcdC+fYqJOthfZekrmWIbTIO/K9RKpRNZTL5YV6Tx66bz2koKuXw==
+medusa-core-utils@^0.1.39:
+  version "0.1.39"
+  resolved "https://registry.yarnpkg.com/medusa-core-utils/-/medusa-core-utils-0.1.39.tgz#d57816c9bd43f9a92883650c1e66add1665291df"
+  integrity sha512-R8+U1ile7if+nR6Cjh5exunx0ETV0OfkWUUBUpz1KmHSDv0V0CcvQqU9lcZesPFDEbu3Y2iEjsCqidVA4nG2nQ==
   dependencies:
     "@hapi/joi" "^16.1.8"
     joi-objectid "^3.0.1"
