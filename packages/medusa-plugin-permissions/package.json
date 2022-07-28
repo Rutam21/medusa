@@ -34,7 +34,7 @@
   "dependencies": {
     "medusa-core-utils": "^1.1.26",
     "medusa-test-utils": "^1.1.29",
-    "mongoose": "^5.8.0"
+    "mongoose": "^6.4.6"
   },
   "gitHead": "41a5425405aea5045a26def95c0dc00cf4a5a44d"
 }
