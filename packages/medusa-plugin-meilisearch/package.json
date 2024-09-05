@@ -25,7 +25,7 @@
     "lodash": "^4.17.21",
     "medusa-core-utils": "^1.1.26",
     "medusa-interfaces": "^1.1.27",
-    "meilisearch": "^0.20.0"
+    "meilisearch": "^0.25.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
