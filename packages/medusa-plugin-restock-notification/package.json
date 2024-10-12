@@ -35,7 +35,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "medusa-core-utils": "^1.1.26"
   },
   "gitHead": "41a5425405aea5045a26def95c0dc00cf4a5a44d"
