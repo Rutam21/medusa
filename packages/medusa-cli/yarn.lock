@@ -778,7 +778,12 @@
     "@babel/types" "^7.4.4"
     esutils "^2.0.2"
 
-"@babel/runtime@^7.8.4", "@babel/runtime@^7.9.6":
+"@babel/runtime@^7.26.10":
+  version "7.27.1"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.1.tgz#9fce313d12c9a77507f264de74626e87fd0dc541"
+  integrity sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==
+
+"@babel/runtime@^7.8.4":
   version "7.9.6"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.9.6.tgz#a9102eb5cadedf3f31d08a9ecf294af7827ea29f"
   integrity sha512-64AF1xY3OAkFHqOb9s4jpgk1Mm5vDZ4L3acHvAml+53nO1XbXLuDodsVpO4OIUsmemlUHMxNdYMNJmsvOwLrvQ==
@@ -4104,10 +4109,10 @@ medusa-core-utils@^0.1.27:
     "@hapi/joi" "^16.1.8"
     joi-objectid "^3.0.1"
 
-medusa-telemetry@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/medusa-telemetry/-/medusa-telemetry-0.0.5.tgz#d7d08fca5cbecc0e853b4e0406194a92c5206caa"
-  integrity sha512-h7hP5Lc33OkFhMcvfrPcwINzMOuPoG8Vn8O6niKGFxF9RmmQnJgaAG1J43/Eq9ZWBrWi0n42XBttibKwCMViHw==
+medusa-telemetry@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/medusa-telemetry/-/medusa-telemetry-0.0.9.tgz#f98b4c3353d9498d8b3597aba75c21b9fedc0088"
+  integrity sha512-GMziF5PBB00fSC7SX3um52eI9ajEVqjl7Uvej0beBbZL4tn66f0qy0RiKB9Am3pwE2bU43CnIBXntuidGQCPIQ==
   dependencies:
     axios "^0.21.1"
     axios-retry "^3.1.9"
