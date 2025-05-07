@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
-    "@babel/runtime": "^7.9.6",
+    "@babel/runtime": "^7.26.10",
     "@hapi/joi": "^16.1.8",
     "axios": "^0.21.1",
     "chalk": "^4.0.0",
